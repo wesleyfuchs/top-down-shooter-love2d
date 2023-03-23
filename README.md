@@ -11,9 +11,8 @@
 
 
 <!-- Capa da Vitrine.dev-->
-<picture>
-  <img alt="" width="1000" src="https://user-images.githubusercontent.com/55562529/227219020-f26a6996-8d6e-4446-915c-5026c8c5dacc.png"#vitrinedev>
-</picture>
+
+![Untitled-1](https://user-images.githubusercontent.com/55562529/227225163-73c0b63e-5631-4e0d-916e-ba79914961c0.png#vitrinedev)
 
 ## Sobre o projeto 📚
 Jogo desenvolvido durante o curso Lua: do zero ao jogo da Alura, jogo topdown de avião inspirado no classico Sonic Wings do Super nes </br>
